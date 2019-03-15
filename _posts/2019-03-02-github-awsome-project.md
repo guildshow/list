@@ -7,11 +7,17 @@ tags: github, list, project, awsome
 description: Github 上面的顶级 项目 都是做什么的？.
 ---
 
+### 引用备注
+
+以下文字转载至 知乎 [Angry Bugs](https://www.zhihu.com/people/kongyifei) 的文章 [**GitHub 上的顶级项目都是做什么的**](https://zhuanlan.zhihu.com/p/58449931?utm_source=wechat_session&utm_medium=social&utm_oi=28836058103808) ；
+
+---
+
 前一阵看到同事在用一个名叫 AirFlow 的工具，而我竟然素未耳闻，一番搜索之后发现这个 工具是 Apache 的顶级项目，而且在 GitHub 上有 1w+ 的 Star。震惊之余，感觉有必要 把 GitHub 上常用工具捋一遍，以避免以后发生重复造轮子的情况。计划是把 GitHub 上 5k+ Star 的项目都知道是做什么用的，每周看 50 个，数据来源是这里：[https://gitstar-ranking.com/repositories](http://link.zhihu.com/?target=https%3A//gitstar-ranking.com/repositories) 。
 
 下面是本周的记录：
 
-## 教程资源类
+### 教程资源类
 
 1. freeCodeCamp/freeCodeCamp
    免费代码训练营
@@ -36,7 +42,7 @@ description: Github 上面的顶级 项目 都是做什么的？.
 11. vuejs/awesome-vue
     Vue 的一些优质资源. awesome 系列，不再赘述
 
-## 前端 UI 框架/库
+### 前端 UI 框架/库
 
 1. twbs/bootstrap
    Twitter 推出的前端 UI 框架，有网格系统和各种组件，曾经常年在 GitHub 上排名第一，可以说是后端工程师画界面的利器。
@@ -53,7 +59,7 @@ description: Github 上面的顶级 项目 都是做什么的？.
 6. daneden/animate.css
    CSS 动画效果库
 
-## 大前端框架和库
+### 大前端框架和库
 
 1. vuejs/vue
    Vue 是国人推出的一个前端框架，可以通过写不同的 Vue 组件来组成一个完整的应用， 支持服务端渲染（SSR）。和 React 一样，Vue 也使用了 Virtual-DOM 技术来提高性能。
@@ -80,24 +86,24 @@ description: Github 上面的顶级 项目 都是做什么的？.
 12. d3.js
     前端数据可视化组件
 
-## 后端工具
+### 后端工具
 
 1. elasticsearch
    使用 Java 编写的一个搜索工具，要实现全文搜索的话，选择 ES 就对了。
 2. moby
    Docker 的内核. Docker 可以让你打包应用的所有环境, 像虚拟机一样隔离, 但是又不像虚拟机 一样过多消耗资源.
 
-## 库
+### 库
 
 1. ReactiveX/RxJava
    TODO 一种编程模式，现在还不是很了解。
 
-## 机器学习
+### 机器学习
 
 1. TensorFlow
    Google 推出的深度学习库, 目前占主流地位.
 
-## 语言
+### 语言
 
 1. Microsoft/TypeScript
    微软推出的一个 JavaScript 的超集。我们知道 JavaScript 是一个动态弱类型的语言， 这种特性在小项目上很方便，然而随着前端项目越来越大，强类型对于程序正确性的保证 就显得越来越重要了。TypeScript 重点就在于增强了类型，甚至名字都叫 TypeScript。
@@ -109,7 +115,7 @@ description: Github 上面的顶级 项目 都是做什么的？.
 4. nodejs
    可以在服务器上运行的 js。
 
-## 通用工具类
+### 通用工具类
 
 1. hakimel / reveal.js
    使用 js 来做 PPT 的一个框架或者说工具
@@ -122,7 +128,7 @@ description: Github 上面的顶级 项目 都是做什么的？.
 5. vscode
    微软推出的代码编辑工具，目前占据了市场优势地位。
 
-## Web 框架
+### Web 框架
 
 1. rails
    Ruby 的一个 MVC 模式的 web 框架，当年可谓大红大紫，现在似乎热度有所衰减了， 可能是因为大家都不写 Web 应用了。
@@ -133,7 +139,7 @@ description: Github 上面的顶级 项目 都是做什么的？.
 4. laravel
    一个比较现代的 PHP MVC web 框架，不过 PHP 这几年的热度衰减也很厉害，好多搞 PHP 的都直接转 Go 了。
 
-## 内核
+### 内核
 
 1. torvalds/linux
    这个不用说了吧。评论里提到 Linux 的贡献者在 GitHub 上显示为正无穷, 厉害了.
