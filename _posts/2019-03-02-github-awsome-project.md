@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '3DS 游戏全集列表'
-date:   2018-11-02 15:40:38 +0800
+title: ' Github 上的顶级项目'
+date:   2019-03-02 15:40:38 +0800
 categories: list
-tags: 3ds, list, game, cia
-description: 用于查询和查找 3DS 游戏，从 oldmanemu 上下载游戏.
+tags: github, list, project, awsome
+description: Github 上面的顶级 项目 都是做什么的？.
 ---
 
 前一阵看到同事在用一个名叫 AirFlow 的工具，而我竟然素未耳闻，一番搜索之后发现这个 工具是 Apache 的顶级项目，而且在 GitHub 上有 1w+ 的 Star。震惊之余，感觉有必要 把 GitHub 上常用工具捋一遍，以避免以后发生重复造轮子的情况。计划是把 GitHub 上 5k+ Star 的项目都知道是做什么用的，每周看 50 个，数据来源是这里：[https://gitstar-ranking.com/repositories](http://link.zhihu.com/?target=https%3A//gitstar-ranking.com/repositories) 。
