@@ -313,5 +313,4 @@ Unity [商店地址](https://assetstore.unity.com/packages/templates/systems/wor
 
 Tag: `模板`、`游戏系统`、`word game` ； 
 
-说明：**Word Game Builder** 是一个广泛的多功能系统，用于创建自己的高质量 拼字游戏。 ；
-
+说明：**Word Game Builder** 是一个广泛的多功能系统，用于创建自己的高质量 拼字游戏。 
